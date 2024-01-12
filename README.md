@@ -1,4 +1,5 @@
-### Hi there 👋
+### Madison, WI
+🔭 I’m studying neuroscience and currently working on a Ph.D. in Biophysics at University of Wisconsin-Madison
 
 <!--
 **john-judge/john-judge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
